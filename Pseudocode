@@ -1,0 +1,13 @@
+Pseudocode:
+1.	Initialize Arrays:
+•	Create two arrays: one for months and one for temperatures
+2.	Input Monthly Temperatures:
+•	Loop through each month and prompt the user to enter the average temperature
+3.	User Input for Month or Year:
+•	Prompt the user to enter either a “month” to view the temperature or “year” to view the yearly summary
+4.	Display Temperature for Selected Month:
+•	If a specific month is entered, display the month and its corresponding temperature
+5.	Display Yearly Summary:
+If “year” is entered, display the temperatures for each month
+•	Caclulate and display the yearly average temperature
+•	Determine and display the highest and lowest monthly temperatures
